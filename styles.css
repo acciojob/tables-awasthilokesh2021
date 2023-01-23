@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+#total{
+    background-color: black;
+    color: white;
+    border-collapse: collapse;
+}
